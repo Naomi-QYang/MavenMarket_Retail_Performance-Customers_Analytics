@@ -1,4 +1,4 @@
-# Maven Market - Retail Performance & Customer Analytics
+# Maven Market - Retail Performance & Customers Analytics
 A Power BI portfolio project analysing *sales performance, customer behaviour, product profitability and store performance* for a multi-national grocery retailer.
 
 **Tools:** Power BI | DAX | Power Query | Data Modelling | Time Intelligence | Business Analysis.
