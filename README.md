@@ -39,10 +39,19 @@ The dashboard was developed to help managers answer 4 key questions:
  * Are changes in customer retention associated with changes in product returns?
  * Which stores, regions or products should management investigate further?
 
+## Key Analytical Techniques
+The dashboard was built by using the following tools and technologies:
+ * 💡 Power BI Desktop: Main business intelligence platform used for report creation which includes connecting, modelling and visualising data
+   - 🔍Power Query - Data transformation and cleaning process for extracting, cleaning and shaping data to prepare it for modeling and analysis
+   - 🔗Data Modeling - Relationships established among fact tables (transactions and returns) and dimension tables (calendar, customers, products, stores and regions) to enable cross-filtering and accurate calculation
+   - 🧠Data Analysis Expressions (DAX) - 
+
+
+
 ## Dashboard Structure
 
 
-## Key Analytical Techniques
+
 
 
 ## Data Assumptions & Limitations
