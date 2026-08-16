@@ -83,8 +83,8 @@ The dashboard and Measures includes several assumptions that should be considere
    - More Customers with *Bronze* membership (~55%) were buying products between 2024 and 2025. Customers who buying products with *Normal* membership occupied a larger portion in Low income group (~40%) than other groups (Medium 4.88% High 4.37%), while the largest portion of customers in Low income group buying products is with *Bronze* membership.
    - Customers with no children (60%+) at home are more likely to buy products compared to those with children.
  * **Products:**
-   - Product brands contributing top 3 sales revenue are *Tell Tale*, *Hermanos* and *Tri-State*, which are Suppliers of <ins>Vegetables</ins>, <ins>Nuts</ins> and <ins>Fruits</ins>.
-   - The range of Gross Margins among each product falls between *48.51%* and *69.97%* from 2024 and 2025.
+   - Product brands contributing top 5 sales revenue in the analytical period are *Hermanos*, *Tell Tale*, *Ebony*, *Tri-State* and *High Top*, which are Suppliers of <ins>Vegetables</ins>, <ins>Nuts</ins> and <ins>Fruits</ins>.
+   - The range of Gross Margins among each product falls between *48.51%* and *69.97%* from 2024 to 2025.
  * **Stores:**
    - North West Region (48%) contributed the most sales revenue in the analytical period, while received the most return requests (47%).
    - *Supermarket* and *Deluxe Supermarket* is contributing the most sales revenue (80%+) in the analytical period, highlighting these formats as key revenue drivers and potential areas of focus for future business planning.
