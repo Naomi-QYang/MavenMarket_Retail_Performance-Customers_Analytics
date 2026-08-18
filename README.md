@@ -6,10 +6,10 @@ A Power BI portfolio project analysing *sales performance, customer behaviour, p
 ## ⭐ Project Overview
 This project analyses the performance of Maven Market, a multi-national grocery chain with stores across Canada, Mexico and the US.
 
-The dashboard was designed from a FP&A and commercial analytics perspective, with the objective of moving beyond descriptive reporting to identify the key drivers behind changes in *Sales, Customer behaviour, Products and Stores Performance*. It allows users to move from an executive-level view into detailed store, product and customer analysis through interactive slicers, dynamic measures and drill-through functionality.
+The report was designed from a FP&A and commercial analytics perspective, with the objective of moving beyond descriptive reporting to identify the key drivers behind changes in *Sales, Customer behaviour, Products and Stores Performance*. It allows users to move from an executive-level view into detailed store, product and customer analysis through interactive slicers, dynamic measures and drill-through functionality.
 
 ## 🎯 Business Objectives
-The dashboard was developed to help managers answer 4 key questions:
+The report was developed to help managers answer 4 key questions:
 
 ***1. How is the business performing?***
  * How are sales, transactions trending?
@@ -38,7 +38,7 @@ The dashboard was developed to help managers answer 4 key questions:
  * Which stores, regions or products should be investigated further?
 
 ## 🛠️ Key Techniques
-The dashboard was built by using the following tools and technologies:
+The report was built by using the following tools and technologies:
  * 💭 **Power BI Desktop:** Main business intelligence platform used for report creation which includes connecting, modelling, aggregating and visualising data
    - 🔍*Power Query* - Data transformation and cleaning process for extracting, cleaning and shaping data to prepare it for modeling and analysis
    - 🔗*Data Modeling* - Relationships established among fact tables (transactions and returns) and dimension tables (calendar, customers, products, stores and regions) to enable cross-filtering and accurate calculation
@@ -59,8 +59,8 @@ This data is from Maven Market, a multi-national grocery chain with locations in
 
 The transactional data covers the period from *<ins> 1 January 1997 </ins>* to *<ins> 31 December 1998 </ins>*. The date fields is shifted and extended across fact and dimension tables to align the dataset with the current reporting period and enable realistic relative-date calculations.
 
-## 📊 Dashboard Structure
- * **Executive Dashboard:** intentionally designed as the entry point into the detailed analysis page. The objective is to answer <ins>what happened</ins> and <ins>where did it happen</ins>
+## 📊 Report Structure
+ * **Executive Summary:** intentionally designed as the entry point into the detailed analysis page. The objective is to answer <ins>what happened</ins> and <ins>where did it happen</ins>
    - *Overview* - provides a high-level overview of business performance in the latest period (year/quarter/month)
    - *Sales Performance* - provides a detailed-level sales performance movement over year/quarter/month
  * **Customers Analytics:** focuses on customer activity, retention and purchasing behaviour. One of the key analytical areas is the relationship between *Reactivated Customers* and *Dormant Customers*. For example, a declining reactivated Customers combined with a increasing dormant customers might suggest that greater difficulty in retaining its existing customer base.
@@ -68,7 +68,7 @@ The transactional data covers the period from *<ins> 1 January 1997 </ins>* to *
  *  **Store Performance:** focuses on sales and operational perfomance on store-level and type-level. Store types and regions can be further investigated through drill-through analysis.
 
 ## ⚠️ Data Assumptions & Limitations
-The dashboard and Measures includes several assumptions that should be considered when interpreting the results
+The report and Measures includes several assumptions that should be considered when interpreting the results
 
  * **Dates -** The <ins>Fact Tables</ins> were originally dated in 1997 and 1998. Dates were shifted forward to create a *2024-2025* analytical period. Dates on <ins>Dimension Tables</ins> were also adjusted where necessary to align them with the analysis period.
  * **Transaction Definition -** The transaction table does not contain a transaction/order ID. Therefore, transaction lines made by the same customer on the same date are assumed to be one transaction for the purpose of transaction-based analysis.
@@ -112,4 +112,4 @@ The current analysis could be extended further if additional business data are a
  * Inventory management analysis
  * Stock turnover
 
-These extensions would enable the dashboard to move further from historical reporting toward a broader FP&A and forward-looking decision-support framework.
+These extensions would enable the report to move further from historical reporting toward a broader FP&A and forward-looking decision-support framework.
